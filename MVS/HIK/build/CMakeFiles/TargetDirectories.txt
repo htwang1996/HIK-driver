@@ -1,0 +1,3 @@
+/home/wang/MVS-1.0.0_x86_64/MVS/HIK/build/CMakeFiles/edit_cache.dir
+/home/wang/MVS-1.0.0_x86_64/MVS/HIK/build/CMakeFiles/rebuild_cache.dir
+/home/wang/MVS-1.0.0_x86_64/MVS/HIK/build/CMakeFiles/GetHik.dir

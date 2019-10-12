@@ -1,0 +1,3 @@
+/home/wang/MVS-1.0.0_x86_64/MVS/Samples/64/opencvgetdata/build/CMakeFiles/edit_cache.dir
+/home/wang/MVS-1.0.0_x86_64/MVS/Samples/64/opencvgetdata/build/CMakeFiles/rebuild_cache.dir
+/home/wang/MVS-1.0.0_x86_64/MVS/Samples/64/opencvgetdata/build/CMakeFiles/GetImage.dir
